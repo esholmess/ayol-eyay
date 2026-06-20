@@ -1,0 +1,16 @@
+Tool / Framework,What You Must Code From Memory
+
+NumPy & Pandas,
+    "Array slicing, tensor shapes, handling missing data, data normalization."
+
+Scikit-Learn,
+    "Pipeline creation, fit(), predict(), cross-validation, and metrics (F1-score, ROC-AUC)."
+
+PyTorch (Crucial),
+    "The explicit training loop, Custom Dataset and DataLoader classes, tensor manipulation."
+
+Hugging Face,
+    "Loading pre-trained text/vision encoders (BERT, ResNet) and fine-tuning configurations."
+
+Matplotlib / Seaborn,
+    "Quickly plotting loss curves, confusion matrices, and data distributions."
