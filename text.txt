@@ -14,3 +14,15 @@ Hugging Face,
 
 Matplotlib / Seaborn,
     "Quickly plotting loss curves, confusion matrices, and data distributions."
+
+Backpropagation & Gradient Descent variants (SGD vs Adam/AdamW).  
+
+Attention Mechanisms & Transformers 
+    (understanding tokenization and why scaling factors are used).
+
+Loss Functions: Knowing exactly when to apply Cross-Entropy 
+    (classification) vs MSE/MAE (regression).
+
+Be comfortable utilizing pre-trained backbones. 
+Practice downloading a model like BERT or a ResNet variant from Hugging Face / Torchvision, 
+freezing the early layers, and adding a custom classification head.
